@@ -15,8 +15,6 @@
 |    9    |  | [Streamlit Frontend]()|
 |   10    |  | [Data Science Tools: Numpy, Pandas og Matplotlib: Intro til moduler](lessons/ses10.md) |
 |   11    |  | [Dataanalyse med numpy, pandas og matplotlib](lessons/ses11.md) |
-|   |  | Påskeferie |
-|    |  | Påskeferie |
 |   12    |  | Semester recap og oplæg om eksamensopgave |
 |   13    |  | Projektarbejde                                            |
 |   14    |  | Projektarbejde                                            |
