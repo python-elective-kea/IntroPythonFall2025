@@ -1,4 +1,4 @@
-# [For dig der overrvejer at vælge dette valgfag](/materialer/valgfag/valgfag.ipynb)
+# [For dig der overvejer at vælge dette valgfag](/materialer/valgfag/valgfag.ipynb)
 
 # Introduktion til Python efterår 2025    
 
