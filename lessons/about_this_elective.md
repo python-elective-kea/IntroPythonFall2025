@@ -1,14 +1,10 @@
 # Om dette valgfag
 
-Dette valgfag, "Introduktion til Python forår 2025", er designet til at give dig en god forståelse af Python-programmeringssproget, dets udviklingsmilijøer og anvendelser indefor moderne softwareudvikling. Kurset dækker både grundlæggende og avancerede koncepter af Python, med fokus på praktisk anvendelse og en "pythonisk" tilgang til programmering.
+Dette valgfag, "Introduktion til Python efterår 2025", er designet til at give dig en god forståelse af Python-programmeringssproget, dets udviklingsmilijøer og anvendelser indefor moderne softwareudvikling. Kurset dækker både grundlæggende og avancerede koncepter af Python, med fokus på praktisk anvendelse og en "pythonisk" tilgang til programmering.
 
 Gennem kurset vil du lære at udvikle effektive og elegante Python-programmer, udforske forskellige anvendelsesområder for sproget, og få hands-on erfaring med relevante værktøjer og teknologier. Der lægges vægt på at udvikle ikke kun tekniske færdigheder, men også evnen til problemløsning, kritisk tænkning og selvstændig læring.
 
-**LLM**    
-I dette valgfag er enhver form for AI tilladt, i opfordres oven i købet til at bruge dem så meget som i kan, både til at lære af og til at genrere den faktiske kode i arbjeder med, og hvis i laver nogle applikationer der overgår alt hvad nogen kunne forestille sig muligt, er det bare præcis som det skal være. "Planen" er at i under alle omstændigheder får problemer under vejs, med eller uden brug af LLM´er, så i skal nok lære noget af det.
-
-Til eksamenen i dette fag er det de samme regler der gælder, men der vil være fokus på hvor godt i kan forklare jeres applikation og kode.
-
+## Brug af LLM
 Denne artikkel om brug af AI i forbindelse med softwareudvikling kan være god at læse en gang eller to inden vi går i gang med undervisningen. 
 
 * [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
@@ -18,7 +14,6 @@ Og disse råd til brug af LLM i jeres læringsprocess er også gode at læse:
 * [Råd til god læring med LLM](../materialer/ses2/godLLM.md)
 
 Til alle undervisningange vil det være en god ide at tage headphones med da i kommer til at se og lytte individuelt til videoer. 
-
 
 ## Læringsmål
 
@@ -36,7 +31,6 @@ Du vil efter dette valgfag er gennemført kunne:
 - Bruge en vifte af udviklingsværktøjer tilknyttet sproget, her i blandt Jupyter notebooks.
 - Løse abstrakte problemstillinger vha. af python og en pythonisk programeringsstil. 
 - Analysere fejlbeskeder og finde løsninger på problemet.
-- Udvikle applikationer vha. code reviews.
 - Forstå og implementere Retrieval-Augmented Generation (RAG) teknikker.
 - Anvende og integrere Large Language Models (LLM) i python applikationer.
 - Anvende numpy og pandas til numeriske beregninger, dataanalyse og datamanipulation, samt visualisere data med matplotlib.
@@ -51,5 +45,4 @@ I kurset bruger vi følgende software.
 * [Python](https://www.python.org/downloads/)
 * [VS Code](https://code.visualstudio.com/download) 
 * Git & Github
-* Adgang til en eller anden form for LLM API (det behøves ikke at være nogen bestemt, men demoer i undervisning gøres primært vha. Mistral.ai´s API.)
 * Headphones (der er en del videoer i forbindelse med undervisningen og dem skal i kunne se uden at forstyrre alle andre i klassen).

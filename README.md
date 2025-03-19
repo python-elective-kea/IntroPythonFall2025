@@ -1,4 +1,8 @@
-# Introduktion til Python forår 2025    
+# [For dig der overrvejer at vælge dette valgfag]()
+
+# Introduktion til Python efterår 2025    
+
+
 
 ## Lektionsplan
 
@@ -7,12 +11,12 @@
 |    1    |  | [Introduktion til python](lessons/ses1.md)                |
 |    2    |  | [Python - datastrukture](lessons/ses2.md)                 |
 |    3    |  | [Python - modules, virtual environmnets, requirements.txt](lessons/ses3.md)|
-|    4    |  | [Sidste uge med grundlæggende python (obligatorisk opgave)](lessons/ses4.md)|
-|    5    |  | [Introduktion til Large Language Models (LLM) i Python](lessons/ses5.md)|
-|    6    |  | [Langchain Basics og Retrieval-Augmented Generation (RAG)](lessons/ses6.md)|
-|    7    |  | [Prompt Engineering](lessons/ses7.md)           |
-|    8    |  | [Back to basics - python one liners](lessons/ses8.md)|
-|    9    |  | [Streamlit Frontend]()|
+|    4    |  | [Functions & Decorators](lessons/ses4.md)|
+|    5    |  | [List comprehensions, lambda & ternary operators](lessons/ses5.md)|
+|    6    |  | [Pythonic OOP](lessons/ses6.md)|
+|    7    |  | [Pythons datamodel](lessons/ses7.md)           |
+|    8    |  | [Python generators](lessons/ses8.md)|
+|    9    |  | [Context managers]()|
 |   10    |  | [Data Science Tools: Numpy, Pandas og Matplotlib: Intro til moduler](lessons/ses10.md) |
 |   11    |  | [Dataanalyse med numpy, pandas og matplotlib](lessons/ses11.md) |
 |   12    |  | Semester recap og oplæg om eksamensopgave |

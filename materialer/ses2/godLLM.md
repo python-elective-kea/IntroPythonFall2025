@@ -7,7 +7,6 @@ Der skal være fokus på korrekt brug af AI. Dette betyder:
 * Hjælp til at forstå koncepterne bedre
 * Få feedback til den kode man har skrevet eller ens forståelse af et emne
 * Bruge AI til at forklare programmeringskoncepter på en simpel måde
-* Bruge AI som opslagsværk til fx at se hvordan man itererer en liste i Python
 * Få hjælp til at finde læringshuller
 * Bruge AI til at øve jeres tekniske vokabularium. Iterere et array, kalde en funktion, variablen er immutable, etc.
 * Bruge AI til at teste jeres viden
